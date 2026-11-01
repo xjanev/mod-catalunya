@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Catalunya",
+    "leaderName": "Roger de Flor",
+    "adjective": "català",
+    "startBias": ["Grassland", "Coast"],
+    "favoredReligion": "Catholicism",
+    "cityNames": [
+      "L'Arboç", "Llorenç del Penedès", "El Pla de Santa Maria", "Valls", "Clariana", 
+      "Torrelles de Foix", "Vilafranca del Penedès", "Sant Sadurní d'Anoia", "Alcover", 
+      "El Vendrell", "Mont-blanc", "Vila-rodona", "Subirats", "La Bisbal del Penedès", 
+      "Rodonyà", "Olèrdola", "Vilabella", "Sant Quintí de Mediona", "Alió", 
+      "Banyeres del Penedès", "Aiguamúrcia", "Bràfim", "Castellví de la Marca", "Cunit", "Calafell"
+    ],
+    "uniques": [
+      "[+1 Culture, +1 Production] from [Wine] tiles",
+      "[+15]% Production when constructing [Cultural] buildings"
+    ],
+    "uniqueUnits": ["Almogàver"]
+  }
+]
